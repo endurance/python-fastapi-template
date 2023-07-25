@@ -23,4 +23,4 @@ pytest-icdiff==0.5
 pytest-watch==4.2.0
 taskipy==1.7.0
 torch==1.8.1+cpu; sys_platform == 'linux'
-torch==1.8.1; sys_platform == 'darwin'
+torch==1.13.1; sys_platform == 'darwin'
